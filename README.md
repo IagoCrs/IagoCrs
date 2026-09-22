@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Iago de Souza
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedora Full-stack`**
 
 Me chamo Iago Cardoso Rabello de Souza, tenho 19 anos e sou natural de Santa Catarina. Durante fundamental e médio fiz curso na área de programação. Atualmente, estou cursando Engenharia de Software na UNISATC
 
