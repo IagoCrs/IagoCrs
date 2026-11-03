@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Full-stack`**
 
-Olá! Chamo-me Iago Souza, sou estudante do 4.º semestre de Engenharia de Software na SATS. Desenvolvo projetos práticos com foco na experiência do utilizador utilizando React, Next.js, TypeScript e Tailwind CSS.
+Olá! Chamo-me Iago Souza, sou estudante do 4.º semestre de Engenharia de Software na SATC. Desenvolvo projetos práticos com foco na experiência do utilizador utilizando React, Next.js, TypeScript e Tailwind CSS.
 
 
 ---
