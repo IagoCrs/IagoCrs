@@ -2,8 +2,7 @@
 
 **`Desenvolvedora Full-stack`**
 
-Me chamo Iago Cardoso Rabello de Souza, tenho 19 anos e sou natural de Santa Catarina. Durante fundamental e médio fiz curso na área de programação. Atualmente, estou cursando Engenharia de Software na UNISATC
-
+Olá! Chamo-me Iago Souza, sou estudante do 4.º semestre de Engenharia de Software na SATS. Desenvolvo projetos práticos com foco na experiência do utilizador utilizando React, Next.js, TypeScript e Tailwind CSS.
 
 
 ---
