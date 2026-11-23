@@ -7,7 +7,7 @@ Olá! Chamo-me Iago Souza, sou estudante do 4.º semestre de Engenharia de Softw
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
